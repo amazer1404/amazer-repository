@@ -1,4 +1,6 @@
 # amazer-repository
 This is my first Repository.
 <br>
-Author - Karan Pawar
+Author - Karan Pawar Sharad
+ <br>
+ modify karke dekhte he 
